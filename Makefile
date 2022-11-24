@@ -3,13 +3,13 @@ all: clean
 clean:
 	gradle clean
 
-compile:
+compile: clean
 	gradle build
 
 test:
 	gradle test
 
-jar: 
+jar: clean
 	gradle build -x test
 	gradle bootJar
 
