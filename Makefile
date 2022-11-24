@@ -1,3 +1,14 @@
+# Github
+add:
+	git status
+	git add .
+
+# git commit -m "message
+
+push:
+	git push
+
+# Gradle
 all: clean
 
 clean:
