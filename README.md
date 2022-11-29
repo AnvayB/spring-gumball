@@ -60,7 +60,7 @@ _Comment added to Line 51 to allow push_
 ## Gumball App running from GKE
 <img width="1440" alt="Gumball App running on GKE" src="https://user-images.githubusercontent.com/53208269/204435032-fcb162ad-7c39-4900-8146-2cfa406a57e5.png">
 
----
+--- 
 
 # spring-gumball ci/cd example
 
