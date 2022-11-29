@@ -4,6 +4,8 @@
 <img width="1440" alt="Pulled gradle yml from Github Workflow" src="https://user-images.githubusercontent.com/53208269/203680492-9c66eeab-ccc8-4712-9928-9cd9ef629c89.png">
 
 ## Build with Gradle
+
+_Comment added to Line 51 to allow push_
 <img width="1440" alt="Comment added to gradle yml file" src="https://user-images.githubusercontent.com/53208269/203680629-e73e0334-77a5-4863-b5b1-dfa9eae47d38.png">
 <img width="1440" alt="Build with Gradle 1" src="https://user-images.githubusercontent.com/53208269/203680541-04e7849e-a18d-4982-83c1-1cc573c4baf7.png">
 <img width="1440" alt="Build with Gradle 2" src="https://user-images.githubusercontent.com/53208269/203680550-643f9da4-b217-4b1a-8160-b8c64fec29a5.png">
@@ -17,7 +19,6 @@
 <img width="1440" alt="Create cmpe172 cluster" src="https://user-images.githubusercontent.com/53208269/204433945-ce9870b9-aa65-451e-9b40-8ba636602330.png">
 
 ## Enable APIs
-<img width="1440" alt="API Library" src="https://user-images.githubusercontent.com/53208269/204433997-1144f215-ad78-4aeb-b1da-a7243339dd5e.png">
 <img width="1440" alt="Enable access to APIs" src="https://user-images.githubusercontent.com/53208269/204433970-7e7c38fc-6ab9-49a3-8464-7b5fb9c32713.png">
 
 ## Find GKE Project ID
